@@ -1,0 +1,74 @@
+$dark-blue: #222831;
+$blue-grey: #393e46;
+$blue: #00adb5;
+$grey-white: #eeeeee;
+
+.retardize {
+  background-color: $dark-blue;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+  overflow: auto;
+
+  &__app-header {
+    color: $grey-white;
+    font-size: 18px;
+    margin: 36px 0 16px 0;
+  }
+
+  &__output-textarea,
+  &__input-textarea {
+    background-color: $blue-grey;
+    border: 2px solid $blue;
+    box-sizing: border-box;
+    width: calc(100% - 32px);
+    height: 45%;
+    padding: 16px;
+    margin: 0 16px;
+    border-radius: 8px;
+    font-size: 14px;
+    color: $grey-white;
+    font-weight: 500;
+    resize: none;
+  }
+
+  &__reset-inputs-btn {
+    background-color: $blue;
+    border: none;
+    border-radius: 50%;
+    height: 48px;
+    width: 48px;
+    margin-top: 8px;
+    padding: 0;
+    cursor: pointer;
+    background-image: url('./images/refresh-icon.svg');
+    background-size: 40px;
+    background-position: 50%;
+    background-repeat: no-repeat;
+  }
+
+  &__output-textarea {
+    margin-top: 16px;
+    height: 15%;
+  }
+
+  &__copy-btn {
+    background-color: $blue;
+    font-size: 18px;
+    font-weight: 700;
+    color: $grey-white;
+    border: none;
+    height: 48px;
+    width: 128px;
+    margin-top: 24px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  &__output-textarea::placeholder,
+  &__input-textarea::placeholder {
+    text-align: center;
+  }
+}

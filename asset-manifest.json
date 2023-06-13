@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/KEKWMachina/retardize/static/css/main.75dfb49d.css",
-    "main.js": "/KEKWMachina/retardize/static/js/main.8aa7361f.js",
-    "static/js/787.09f3248c.chunk.js": "/KEKWMachina/retardize/static/js/787.09f3248c.chunk.js",
-    "static/media/refresh-icon.svg": "/KEKWMachina/retardize/static/media/refresh-icon.29ff6517ca9e3346b826.svg",
-    "index.html": "/KEKWMachina/retardize/index.html",
-    "main.75dfb49d.css.map": "/KEKWMachina/retardize/static/css/main.75dfb49d.css.map",
-    "main.8aa7361f.js.map": "/KEKWMachina/retardize/static/js/main.8aa7361f.js.map",
-    "787.09f3248c.chunk.js.map": "/KEKWMachina/retardize/static/js/787.09f3248c.chunk.js.map"
+    "main.css": "/kekwachina/retardize/static/css/main.2375844c.css",
+    "main.js": "/kekwachina/retardize/static/js/main.6d9533c5.js",
+    "static/js/787.09f3248c.chunk.js": "/kekwachina/retardize/static/js/787.09f3248c.chunk.js",
+    "static/media/refresh-icon.svg": "/kekwachina/retardize/static/media/refresh-icon.29ff6517ca9e3346b826.svg",
+    "index.html": "/kekwachina/retardize/index.html",
+    "main.2375844c.css.map": "/kekwachina/retardize/static/css/main.2375844c.css.map",
+    "main.6d9533c5.js.map": "/kekwachina/retardize/static/js/main.6d9533c5.js.map",
+    "787.09f3248c.chunk.js.map": "/kekwachina/retardize/static/js/787.09f3248c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75dfb49d.css",
-    "static/js/main.8aa7361f.js"
+    "static/css/main.2375844c.css",
+    "static/js/main.6d9533c5.js"
   ]
 }

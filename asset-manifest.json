@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/retardize/static/css/main.d0a69a0c.css",
+    "main.css": "/retardize/static/css/main.7ab105ad.css",
     "main.js": "/retardize/static/js/main.1e20460e.js",
     "static/js/787.09f3248c.chunk.js": "/retardize/static/js/787.09f3248c.chunk.js",
     "static/media/refresh-icon.svg": "/retardize/static/media/refresh-icon.29ff6517ca9e3346b826.svg",
     "index.html": "/retardize/index.html",
-    "main.d0a69a0c.css.map": "/retardize/static/css/main.d0a69a0c.css.map",
+    "main.7ab105ad.css.map": "/retardize/static/css/main.7ab105ad.css.map",
     "main.1e20460e.js.map": "/retardize/static/js/main.1e20460e.js.map",
     "787.09f3248c.chunk.js.map": "/retardize/static/js/787.09f3248c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0a69a0c.css",
+    "static/css/main.7ab105ad.css",
     "static/js/main.1e20460e.js"
   ]
 }
